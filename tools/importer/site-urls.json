@@ -4,140 +4,176 @@
   "lastCrawled": "https://freight.qantas.com/",
   "urls": [
     {
+      "url": "https://freight.qantas.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "d1b0fab7a2e66fa5bb0d49741ad1d3f322572a2a"
+    },
+    {
       "url": "https://freight.qantas.com/au-en.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en",
       "id": "a7236ae8580cd23ba4a9366f70da3a1bac67bb9e"
     },
     {
+      "url": "https://freight.qantas.com/au-en/business-rewards.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/business-rewards",
+      "id": "b5b1e33c3410e9a1a89a30a7a80f93298d5e550b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/business-rewards/qantas-business-rewards-program.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/business-rewards/qantas-business-rewards-program",
+      "id": "2605c76cf766e03332a1c375520e89c8c18e292c"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/conditions-of-carriage-domestic.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/conditions-of-carriage-domestic",
       "id": "e6a0042ba1fad308577374c9bd1c1a891d8879e7"
     },
     {
+      "url": "https://freight.qantas.com/au-en/conditions-of-carriage-international.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/conditions-of-carriage-international",
+      "id": "1f0b2e39a94ee721d38e15a6a90831ea9e46b697"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/contact-us",
+      "id": "eb06c71cfc5d3726845a6027c5b7dcc786f6cee3"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/fleet.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/fleet",
       "id": "4c5a774acfeb0ac995caff3b2a27332ccb12b623"
     },
     {
       "url": "https://freight.qantas.com/au-en/fleet/data-loggers.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/fleet/data-loggers",
       "id": "3bea5c9c048087b40b8d9a4b381169fef1a4a7f0"
     },
     {
+      "url": "https://freight.qantas.com/au-en/fleet/freight-fleet.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/fleet/freight-fleet",
+      "id": "fad9263d1164bb90c074371ecbce70ed6036a3bc"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/fleet/unit-load-devices.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/fleet/unit-load-devices",
       "id": "8e5b23b4a905bd73f5ebc0613bdc3be2c58b168d"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning",
       "id": "5ad74fdb83b6bab18c6dff1db746d3745e2eabbb"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/capacity-protection-policy.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/capacity-protection-policy",
       "id": "2f72a29c7725148c6aba3f5c648053cee820fd0d"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/dangerous-goods.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/dangerous-goods",
       "id": "b6510042d86e754cd7c3ea015264de98fb1e061d"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/digital-capabilities.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/digital-capabilities",
       "id": "6e0633aa003ea7c2fc1d8b4f8342997ca9c45ba8"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/dock-direct.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/dock-direct",
       "id": "99eeeb7bcc7c5eb0729723d91396d2d6c9942d81"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/e-awb.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/e-awb",
       "id": "28329a7b9729b0ecb5efc59db5748d3b0b22d671"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/ground-handling-fees.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/ground-handling-fees",
       "id": "3573840e8374524609955a990671ee0e7b044409"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/international-booking-experience.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/international-booking-experience",
       "id": "2aa7250ec9a095a1593635b7201b8554b4ac9e8b"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/screening.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/screening",
       "id": "d91c82e896152aa713a037402468912bb046f24f"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/track-and-trace.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/track-and-trace",
       "id": "29eae21750358c908f055410a0d024438aeab078"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-planning/your-rates.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-planning/your-rates",
       "id": "202f7b647101ea46492500a40e81dbf8e00f34a4"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services",
       "id": "35595167a1b079b397ec099fca6cee717dfa6ab1"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/air-freight.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/air-freight",
       "id": "dbf207f7b26c281723dffb62646df496f5ad4574"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/air-freight/classic.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/air-freight/classic",
       "id": "8a9d15fa9d7417445723f652e606a5f85ecdf128"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/air-freight/express.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/air-freight/express",
       "id": "59d52c825aa5f7802901470d738a9006d88fd21d"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/air-freight/priority.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/air-freight/priority",
       "id": "7b5d0caea9a2f1e2680fd05b9d0a39c5e3957c95"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/charter-services.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/charter-services",
       "id": "2b2c84ad18afc459cd2141d2042efc237b0d0d2f"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/custom-freight-specialty",
       "id": "f6e223bdbc08ed3ed093965dfd762e12e7057135"
     },
@@ -167,19 +203,19 @@
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/nz-courier-services.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/nz-courier-services",
       "id": "4941b5a43f67cdef81775b82c5ba5e16d60602b7"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/road-transport.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/road-transport",
       "id": "52e1124277544d13c52c0e17fb5c09ed79a3b29b"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/special-movements.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/special-movements",
       "id": "2bf9f9045bc903c77fb472edb95df953463c2143"
     },
@@ -191,19 +227,37 @@
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-services/unaccompanied-baggage-freight.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-services/unaccompanied-baggage-freight",
       "id": "421f9fd91a24b3aad482c4e8c26a22daa83619f7"
     },
     {
       "url": "https://freight.qantas.com/au-en/freight-terminals.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-terminals",
       "id": "32e1fa984bf821433fb57f4b4806b33e7aa1d69e"
     },
     {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/africa.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/africa",
+      "id": "d7bd3c4bc11c71565d56ca51e5579f09cc2a51e3"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/americas.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/americas",
+      "id": "5482cbedccc3036b9f771f3c697abdbd01b0cab4"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/asia.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/asia",
+      "id": "13f2dc1b4126dca34ff156665d132fa360fc613b"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/freight-terminals/australia.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/freight-terminals/australia",
       "id": "bc995768400c62c0efcf970f26f673cbb4942ad7"
     },
@@ -520,14 +574,62 @@
       "id": "c9cc8acab288bdfaf54fcea527c628aa296f3ce5"
     },
     {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/new-zealand-and-pacific.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/new-zealand-and-pacific",
+      "id": "dacb56f232f5b72d75b5b6de011c37ac4e078f5a"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/safety-at-our-terminals.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/safety-at-our-terminals",
+      "id": "6a98b174f2bf13d8c1b7475d2350c9ef555762cc"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/uk-and-europe.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/freight-terminals/uk-and-europe",
+      "id": "761351ad28f317e8cee8b75e500c635878241bea"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/help.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/help",
+      "id": "83b85fd539cc6c75e7d70b5a179ec8067d032a6c"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/help/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/help/contact-us",
+      "id": "97ccfdac3c51c29f67e76f4ea0e33d609151bde2"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/help/support.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/help/support",
+      "id": "48824b73fd2ed72443e0161abc42dd77d193d25a"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/help/user-guides.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/help/user-guides",
+      "id": "1bcc853b4564ba02040695f2c6e4beb8cdb43d82"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/login-registration.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/login-registration",
+      "id": "6ac3dc094f1f69f67aab0e50e7f36e7b0e2c9c5d"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/network.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/network",
       "id": "86077fdf6396f0ab2751721b323be10a5ebd8278"
     },
     {
       "url": "https://freight.qantas.com/au-en/network/flight-schedule.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/network/flight-schedule",
       "id": "2c15682ed3d0f4869131e6070b0de470c6034295"
     },
@@ -539,69 +641,339 @@
     },
     {
       "url": "https://freight.qantas.com/au-en/network/route-map.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/network/route-map",
       "id": "c63b52c4b3512faf0b74e4240808b5661a550dfd"
     },
     {
+      "url": "https://freight.qantas.com/au-en/news.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/news",
+      "id": "eb15dae95c3aae3e735b65dfb1dfdf027cd45bf4"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/our-freight-business.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/our-freight-business",
+      "id": "01da01faf4fbcec87e675a8912d057ee8d9a6001"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/password-reset.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/password-reset",
+      "id": "56850e8003a7c6650c4acf1d8abc2eb3331380ee"
+    },
+    {
       "url": "https://freight.qantas.com/au-en/pets.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets",
       "id": "3230194d3125afbc4f78116518d2d36c128e2c4f"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/animals.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/animals",
       "id": "6e884bc4f7f3aa0636aaf2249e80e2abfd2ba09d"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/brachycephalic-breeds.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/brachycephalic-breeds",
       "id": "33674a9a9afd996b553865e784b33c0ee7981cd7"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/crates.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/crates",
       "id": "417b13e38d8c2f4fe056c4e6f2b46dae5ce7eed8"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/extreme-weather.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/extreme-weather",
       "id": "73593a789f2d923d76072dca686100117564a54c"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/pet-travel-faqs.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/pet-travel-faqs",
       "id": "5876a089a675b9b8dcf96a0231e6d53f05bdbf2c"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/pet-travel-specialists.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/pet-travel-specialists",
       "id": "bbe5b17adc5334fa351d2e7e33961142d204864d"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/pets-domestic-travel.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/pets-domestic-travel",
       "id": "e9d2c3b71b356f1d5301e3cbbaa081ed503bff8e"
     },
     {
       "url": "https://freight.qantas.com/au-en/pets/pets-international-travel.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/pets/pets-international-travel",
       "id": "a834e02dcdf9de3cbd1aac1932085f02ce753e50"
     },
     {
       "url": "https://freight.qantas.com/au-en/retail-animals.html",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/au-en/retail-animals",
       "id": "a5746c2b8d320177169710e39402b15722a6775d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/seafood-regulation.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/seafood-regulation",
+      "id": "29a3bfaeda25cc6bad243ac409609bbc3fb86cac"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/sustainability.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/sustainability",
+      "id": "573e4d6c5926fd8a16beacf485018b610655344c"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/sustainable-cargo.html",
+      "source": "CRAWL",
+      "targetPath": "/au-en/sustainable-cargo",
+      "id": "2aaadb27c56697a58b69630cb82f28382d32d2db"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en",
+      "id": "a910ecfa39f00a31c81bf60cc0190decd2f7fd2c"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/fleet.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/fleet",
+      "id": "6acafaf96366a50d60fa74946df970a75da7ba99"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/fleet/data-loggers.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/fleet/data-loggers",
+      "id": "b897c56042adda05b3870926928f7f936ba511ea"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/fleet/freight-fleet.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/fleet/freight-fleet",
+      "id": "eb75f373290bfb4f20d1ea5d3aa3abc4c74ccf3c"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/fleet/unit-load-devices.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/fleet/unit-load-devices",
+      "id": "89f153a846ce6b2fb3e5c2b481269a253dcba704"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning",
+      "id": "2ffcb0b8849ee0f6f0ed763ba98a6dbea200df7d"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/block-space-agreement.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/block-space-agreement",
+      "id": "8c7f6e8d86ba87ed6088bc491dd0d0925d7681a9"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/dangerous-goods.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/dangerous-goods",
+      "id": "90e9542700d80460bd73f999fad886441473dfc6"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/digital-capabilities.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/digital-capabilities",
+      "id": "208cd856da1577233558e500a95a3804da1e54e8"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/dock-direct.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/dock-direct",
+      "id": "454f8803a8ae4d9069b1ea236e2430782adc0e7f"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/ground-handling-fees.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/ground-handling-fees",
+      "id": "a490831d8fee1c46a3068cbe74f1d2df696659a8"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/international-booking-experience.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/international-booking-experience",
+      "id": "15fbd495a4be2342a98f1e633779799de217f5aa"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/large-shipment-change-policy.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/large-shipment-change-policy",
+      "id": "fbbef62a8f35de75f5b57fa3461f1d27c9959582"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/screening.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/screening",
+      "id": "7d1ef05e02e188ddcf629c3ce35780bc13c9c100"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/track-and-trace.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/track-and-trace",
+      "id": "e02b7809001463dff677dab5463290189cdfe6b0"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-planning/your-rates.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-planning/your-rates",
+      "id": "eb5df236106ec4c735249d5f161560a91c15d75f"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services",
+      "id": "17c41b15455b1a1808e9e63e197055242d67a364"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/air-freight.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/air-freight",
+      "id": "739d674871c191282bc7cdf13f4b2e017ea4fd29"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/air-freight/classic.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/air-freight/classic",
+      "id": "e6f3c190958af1366311b3f4fab276a5be130661"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/air-freight/express.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/air-freight/express",
+      "id": "e9da150003fa3732e57d30cc28f6b0d62880c6b5"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/air-freight/priority-one.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/air-freight/priority-one",
+      "id": "c810f6e3759868daf7435bc84e1538ebe38172a0"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/air-freight/priority.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/air-freight/priority",
+      "id": "4ffeb91238004b70002531bb6ba5a97d03a06c81"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/charter-services.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/charter-services",
+      "id": "f4443a319489b6f9688d2b39185f9c5bd94152f7"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/custom-freight-specialty.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/custom-freight-specialty",
+      "id": "6fb3066df34a5d6157426453fc2ec13fdacb49e9"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/road-freight-services.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/road-freight-services",
+      "id": "30109040a62294a43db68dfc786ff78bc77c0899"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/special-movements.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/special-movements",
+      "id": "ed19cd6f48f94d4148d260935d6cfcea394a388d"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/special-movements/pets.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/special-movements/pets",
+      "id": "fc1c135d087d3865e88a296a9d200050ff837643"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-services/unaccompanied-baggage-freight.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-services/unaccompanied-baggage-freight",
+      "id": "5291b6987ce2f01be1a5ae42772fa85d2f8fcfeb"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-terminals.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-terminals",
+      "id": "0a3a6146584be53bcbcf2fb522545760295d02de"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-terminals/americas.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-terminals/americas",
+      "id": "daa54c9d7a7cf8a663c4a73cd52c9d20bdfa97ee"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-terminals/asia.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-terminals/asia",
+      "id": "20871d0e2a00a89c345b1e44d81a561400df8440"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-terminals/australia.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-terminals/australia",
+      "id": "4ae7c2d72d30c0421755e73885379fbc3a40cc1e"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/freight-terminals/new-zealand-and-pacific.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/freight-terminals/new-zealand-and-pacific",
+      "id": "4837e3a7dc64ab2551f2e7bec7fa9be00af4b2b1"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/help/business-account.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/help/business-account",
+      "id": "58671dd62d7e995e6e681db6e717fd36ae9aedbf"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/login-registration.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/login-registration",
+      "id": "30243b10976e9a9bd0ebe3a7e4972988da1ad252"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/network.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/network",
+      "id": "7d0a186fad421c8d33fb6bc2fe02622e3ec89732"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/network/flight-schedule.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/network/flight-schedule",
+      "id": "90281fff36cb297470f0d289346ac0dc98d2bfae"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/network/route-map.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/network/route-map",
+      "id": "88445e4b8c3b542353910752a0478c473d34ca6c"
+    },
+    {
+      "url": "https://freight.qantas.com/us-en/news.html",
+      "source": "CRAWL",
+      "targetPath": "/us-en/news",
+      "id": "9ed67e1b1bbe4f8556e0c401b2daa18a039f7f56"
     }
   ],
   "crawlOptions": {
@@ -611,20 +983,40 @@
     "limit": 100,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "sitemaps",
+    "strategy": "crawl",
     "logger": {},
     "strategiesAttempted": [
-      "SITEMAPS"
+      "CRAWL"
     ]
   },
   "extractionErrors": [
     {
-      "url": "https://freight.qantas.com/au-en/freight-planning/fleet.html",
-      "status": "302 Moved Temporarily Redirect: http://freight.qantas.com/au-en/fleet/freight-fleet.html"
+      "url": "https://freight.qantas.com/au-en/logout.html",
+      "status": "302 Moved Temporarily Redirect: http://freight.qantas.com/au-en/login.html"
     },
     {
-      "url": "https://freight.qantas.com/au-en/freight-planning/flight-schedule/search.html",
-      "status": "302 Moved Temporarily Redirect: http://freight.qantas.com/au-en/network/flight-schedule/search.html"
+      "url": "https://freight.qantas.com/au-en/secure.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/domestic/profile.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/domestic/change-password.html",
+      "status": "401 Unauthorized"
+    },
+    {
+      "url": "https://freight.qantas.com/assets/9e39b5038c1cc6c91ae6195c6ef12628200129f2c48",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://freight.qantas.com/etc/designs/qantas/global/font/315CA1_1_0.woff2",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://freight.qantas.com/etc/designs/qantas/global/font/315CA1_3_0.woff2",
+      "status": "fetch failed"
     }
   ]
 }
