@@ -1,0 +1,630 @@
+{
+  "originUrl": "https://freight.qantas.com",
+  "aborted": false,
+  "lastCrawled": "https://freight.qantas.com/",
+  "urls": [
+    {
+      "url": "https://freight.qantas.com/au-en.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en",
+      "id": "a7236ae8580cd23ba4a9366f70da3a1bac67bb9e"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/conditions-of-carriage-domestic.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/conditions-of-carriage-domestic",
+      "id": "e6a0042ba1fad308577374c9bd1c1a891d8879e7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/fleet.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/fleet",
+      "id": "4c5a774acfeb0ac995caff3b2a27332ccb12b623"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/fleet/data-loggers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/fleet/data-loggers",
+      "id": "3bea5c9c048087b40b8d9a4b381169fef1a4a7f0"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/fleet/unit-load-devices.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/fleet/unit-load-devices",
+      "id": "8e5b23b4a905bd73f5ebc0613bdc3be2c58b168d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning",
+      "id": "5ad74fdb83b6bab18c6dff1db746d3745e2eabbb"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/capacity-protection-policy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/capacity-protection-policy",
+      "id": "2f72a29c7725148c6aba3f5c648053cee820fd0d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/dangerous-goods.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/dangerous-goods",
+      "id": "b6510042d86e754cd7c3ea015264de98fb1e061d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/digital-capabilities.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/digital-capabilities",
+      "id": "6e0633aa003ea7c2fc1d8b4f8342997ca9c45ba8"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/dock-direct.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/dock-direct",
+      "id": "99eeeb7bcc7c5eb0729723d91396d2d6c9942d81"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/e-awb.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/e-awb",
+      "id": "28329a7b9729b0ecb5efc59db5748d3b0b22d671"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/ground-handling-fees.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/ground-handling-fees",
+      "id": "3573840e8374524609955a990671ee0e7b044409"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/international-booking-experience.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/international-booking-experience",
+      "id": "2aa7250ec9a095a1593635b7201b8554b4ac9e8b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/screening.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/screening",
+      "id": "d91c82e896152aa713a037402468912bb046f24f"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/track-and-trace.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/track-and-trace",
+      "id": "29eae21750358c908f055410a0d024438aeab078"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/your-rates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-planning/your-rates",
+      "id": "202f7b647101ea46492500a40e81dbf8e00f34a4"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services",
+      "id": "35595167a1b079b397ec099fca6cee717dfa6ab1"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/air-freight.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/air-freight",
+      "id": "dbf207f7b26c281723dffb62646df496f5ad4574"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/air-freight/classic.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/air-freight/classic",
+      "id": "8a9d15fa9d7417445723f652e606a5f85ecdf128"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/air-freight/express.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/air-freight/express",
+      "id": "59d52c825aa5f7802901470d738a9006d88fd21d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/air-freight/priority.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/air-freight/priority",
+      "id": "7b5d0caea9a2f1e2680fd05b9d0a39c5e3957c95"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/charter-services.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/charter-services",
+      "id": "2b2c84ad18afc459cd2141d2042efc237b0d0d2f"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/custom-freight-specialty",
+      "id": "f6e223bdbc08ed3ed093965dfd762e12e7057135"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty/custom-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/custom-freight-specialty/custom-transport",
+      "id": "f4915097b430cfbf90db4ed4f1044276ce54b0bb"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty/fresh-food-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/custom-freight-specialty/fresh-food-transport",
+      "id": "bba29f3258df331e616ce4df89a9a8c4734fa2b6"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty/pharmaceutical-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/custom-freight-specialty/pharmaceutical-transport",
+      "id": "328a9b5978cdad13407d55248a4c76c2c670bfd7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/custom-freight-specialty/secure-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/custom-freight-specialty/secure-transport",
+      "id": "bbdb2b8d85cd238eab292807346ffeaf7c9d69a4"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/nz-courier-services.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/nz-courier-services",
+      "id": "4941b5a43f67cdef81775b82c5ba5e16d60602b7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/road-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/road-transport",
+      "id": "52e1124277544d13c52c0e17fb5c09ed79a3b29b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/special-movements.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/special-movements",
+      "id": "2bf9f9045bc903c77fb472edb95df953463c2143"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/special-movements/human-remains-ashes.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/special-movements/human-remains-ashes",
+      "id": "3ef37d0c394acd0d2abb5f6752a62c0d5b8484a9"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-services/unaccompanied-baggage-freight.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-services/unaccompanied-baggage-freight",
+      "id": "421f9fd91a24b3aad482c4e8c26a22daa83619f7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals",
+      "id": "32e1fa984bf821433fb57f4b4806b33e7aa1d69e"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia",
+      "id": "bc995768400c62c0efcf970f26f673cbb4942ad7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional",
+      "id": "8e0f8717a629b9aaefc6dac96c0339c1c5664734"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw",
+      "id": "7e7615a3a6aed186cef80621de6bf9af091125ce"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/albury.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/albury",
+      "id": "7601dffd0d1de172fbdb8772cf24e8f59c07defc"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/armidale.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/armidale",
+      "id": "1114fe0901607fd3105087e610948f438b94f939"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/ballina.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/ballina",
+      "id": "4b88bb42465fc8d5f994fc6695cc92c676971a06"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/broken-hill.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/broken-hill",
+      "id": "0774d1bf6585176ec89bdfe04b273fdbb4a07c0d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/coffs-harbour.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/coffs-harbour",
+      "id": "2c8537fe61d76bc1424f10ef536cee8604f230e9"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/dubbo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/dubbo",
+      "id": "f93d58d1689bdf9bc1b853828917c9073697759f"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/griffith.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/griffith",
+      "id": "ba2902de349c4a96db5ad2aa68854f8c158e4058"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/lord-howe-island.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/lord-howe-island",
+      "id": "ca794284b657d49214cc2d0b6a12df06c123eba0"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/merimbula.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/merimbula",
+      "id": "5ad9562e5a78eedd7343ff34c7fda3e153effdd3"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/moree.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/moree",
+      "id": "7852441df6e11ceb3fa1dae2f36d582ec820339b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/moruya-batemans-bay.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/moruya-batemans-bay",
+      "id": "7964521d1476e1a8f411fb2ee121efca2a79e851"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/newcastle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/newcastle",
+      "id": "10b378135dc21ecfe2e90eaed59a69812e4985e9"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/norfolk-island.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/norfolk-island",
+      "id": "c460afca576aa5b0ade989aa25d7622493634ee5"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/orange.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/orange",
+      "id": "5dbe4a6cb030563f6f5f625d8e44a11adfef89a6"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/port-macquarie.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/port-macquarie",
+      "id": "8d6c24ea37e1fb7943376efe40a79bc76b94d5ba"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/tamworth.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/tamworth",
+      "id": "3367084a665ec65c328330160fea34b766ed4e04"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/nsw/wagga-wagga.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/nsw/wagga-wagga",
+      "id": "2aa4d11f1be03343d38fb0049ea6dfce1de3f6f7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld",
+      "id": "d91311ce7877ad967880e393eab498d29f1a9e12"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld/bundaberg.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld/bundaberg",
+      "id": "7984ab211325e4646b9822f9bee975b47189286d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld/emerald.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld/emerald",
+      "id": "ad86696d0bfdfafef91283871cec90b4ee3960e7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld/gladstone.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld/gladstone",
+      "id": "ad2c822c48668ca4393f6c605aa2c045d4832d9a"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld/hamilton-island.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld/hamilton-island",
+      "id": "c10081adb9168ca3ff38e2a2e39211addff18b49"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/qld/hervey-bay.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/qld/hervey-bay",
+      "id": "e11ce84a0dbf82ff5e39b734d17288b15d57f8fd"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/vic.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/vic",
+      "id": "72a30cf3ff3c5083341f785345d2fe7c75a2767d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/vic/Bendigo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/vic/bendigo",
+      "id": "529a7e4e791cc8e41263df4360dbc438c21d70fa"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/domestic-freight-regional/vic/mildura.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/domestic-freight-regional/vic/mildura",
+      "id": "34b2a6dc4533ab04007c1bd6b02db4257fe98da2"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international",
+      "id": "d5c2137e5a79678c3ab3b04f7db56e69a815751e"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-freight-coolangatta.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-freight-coolangatta",
+      "id": "7a58da937c6c60f5497cb9ee1b513c64aea7ab9b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-adelaide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-adelaide",
+      "id": "583be3e579a1941f87f155a000bee4d62b98f8bd"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-brisbane.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-brisbane",
+      "id": "aa496153e508bdfdb194c2f17afe1319128008ba"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-cairns.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-cairns",
+      "id": "1fbb159c56e0ebb8fbb68fdb1df74d93cf22daf7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-canberra.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-canberra",
+      "id": "b9152784e32dbf9963f02c04383d6b1e18877e1a"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-darwin.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-darwin",
+      "id": "139b8378b70212c9bf0f649547acd7a7ecc779bd"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-hobart.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-hobart",
+      "id": "4b8a88a33af6ef5cf19b0cd6282cc41690894f39"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-melbourne.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-melbourne",
+      "id": "e5843a7a22b92e0c1c161dde32df6da362416e12"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-perth.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-perth",
+      "id": "a3be1d2a89d268ee9bacea00acac0d6fc65bc1dc"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/international/international-handling-sydney.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/international/international-handling-sydney",
+      "id": "133a5ce772a4c2784e5d57d7e4fa01b42c73961c"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities",
+      "id": "1c4e7a12ad33d8d7c7007806cb107e33623bb439"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/adelaide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/adelaide",
+      "id": "a107a1a62d191a5fc6a6b601ec631f14df1eaa91"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/brisbane.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/brisbane",
+      "id": "8272cadb4d40291477d631bbd869e3ab5340b0fb"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/cairns.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/cairns",
+      "id": "ec1e47cfd8058ab8487ad272eefa84491d108754"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/canberra.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/canberra",
+      "id": "6b93c520fedb824c5c0dbe6308429826598f0164"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/coolangatta.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/coolangatta",
+      "id": "39158bde37f1f1a76dfb427522d838724341b608"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/darwin.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/darwin",
+      "id": "615403edbecbcfb66662d5bb52b544fb49bddc7b"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/hobart.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/hobart",
+      "id": "139a133fb8b3d21d1f28bdcf4a6148d135ab0b87"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/launceston.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/launceston",
+      "id": "2e10f2f75d043aed3abd69d51120cf6053211606"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/melbourne.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/melbourne",
+      "id": "38a092fc48f2150315b0b77d9e6769843bc564d8"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/perth.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/perth",
+      "id": "0b9419486d37a2c60b87f8626165d7e1e388e529"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/sydney.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/sydney",
+      "id": "ccb6f33fe9e276eee093a3d9494f3fdd17d2dc89"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-terminals/australia/major-domestic-cities/townsville.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/freight-terminals/australia/major-domestic-cities/townsville",
+      "id": "c9cc8acab288bdfaf54fcea527c628aa296f3ce5"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/network.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/network",
+      "id": "86077fdf6396f0ab2751721b323be10a5ebd8278"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/network/flight-schedule.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/network/flight-schedule",
+      "id": "2c15682ed3d0f4869131e6070b0de470c6034295"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/network/flight-schedule/search.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/network/flight-schedule/search",
+      "id": "d6bfddd56d9d2dadc754dc806975e18c1d822c1a"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/network/route-map.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/network/route-map",
+      "id": "c63b52c4b3512faf0b74e4240808b5661a550dfd"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets",
+      "id": "3230194d3125afbc4f78116518d2d36c128e2c4f"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/animals.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/animals",
+      "id": "6e884bc4f7f3aa0636aaf2249e80e2abfd2ba09d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/brachycephalic-breeds.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/brachycephalic-breeds",
+      "id": "33674a9a9afd996b553865e784b33c0ee7981cd7"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/crates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/crates",
+      "id": "417b13e38d8c2f4fe056c4e6f2b46dae5ce7eed8"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/extreme-weather.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/extreme-weather",
+      "id": "73593a789f2d923d76072dca686100117564a54c"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/pet-travel-faqs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/pet-travel-faqs",
+      "id": "5876a089a675b9b8dcf96a0231e6d53f05bdbf2c"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/pet-travel-specialists.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/pet-travel-specialists",
+      "id": "bbe5b17adc5334fa351d2e7e33961142d204864d"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/pets-domestic-travel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/pets-domestic-travel",
+      "id": "e9d2c3b71b356f1d5301e3cbbaa081ed503bff8e"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/pets/pets-international-travel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/pets/pets-international-travel",
+      "id": "a834e02dcdf9de3cbd1aac1932085f02ce753e50"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/retail-animals.html",
+      "source": "SITEMAPS",
+      "targetPath": "/au-en/retail-animals",
+      "id": "a5746c2b8d320177169710e39402b15722a6775d"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/fleet.html",
+      "status": "302 Moved Temporarily Redirect: http://freight.qantas.com/au-en/fleet/freight-fleet.html"
+    },
+    {
+      "url": "https://freight.qantas.com/au-en/freight-planning/flight-schedule/search.html",
+      "status": "302 Moved Temporarily Redirect: http://freight.qantas.com/au-en/network/flight-schedule/search.html"
+    }
+  ]
+}
